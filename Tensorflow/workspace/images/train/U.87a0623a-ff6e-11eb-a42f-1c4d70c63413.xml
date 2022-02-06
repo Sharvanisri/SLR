@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>U.87a0623a-ff6e-11eb-a42f-1c4d70c63413.jpg</filename>
+	<path>F:\MCA\SLR\New folder\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\U.87a0623a-ff6e-11eb-a42f-1c4d70c63413.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>U</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>270</ymin>
+			<xmax>370</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>
